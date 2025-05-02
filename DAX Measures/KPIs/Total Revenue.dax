@@ -1,0 +1,1 @@
+Total Revenue = SUM('Estate_bills'[Total Price])

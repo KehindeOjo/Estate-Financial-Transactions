@@ -1,0 +1,2 @@
+Service Charge Revenue = 
+	CALCULATE(SUM(Estate_bills[Total Price]), 'Estate_bills'[Bill] = "Service Charge")

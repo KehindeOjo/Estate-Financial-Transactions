@@ -1,0 +1,2 @@
+Total Paid by Resident = 
+	CALCULATE(SUM(Estate_bills[Total Price]), ALLEXCEPT(Estate_bills, Estate_bills[Apartment ID] ))

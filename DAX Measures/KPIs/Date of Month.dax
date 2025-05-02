@@ -1,0 +1,1 @@
+Month = FORMAT('Estate_bills'[Date], "mmmm")

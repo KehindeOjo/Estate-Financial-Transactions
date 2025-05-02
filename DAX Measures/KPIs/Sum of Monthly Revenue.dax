@@ -1,0 +1,2 @@
+Monthly Collection = 
+	CALCULATE(SUM('Estate_bills'[Total Price]), ALLEXCEPT('Estate_bills', 'Estate_bills'[Month]))

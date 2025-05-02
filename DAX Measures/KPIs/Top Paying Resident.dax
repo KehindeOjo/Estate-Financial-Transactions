@@ -1,0 +1,5 @@
+Top Paying Resident = 
+	VAR PaymentsByResident = ADDCOLUMNS(SUMMARIZE('Estate_bills', 'Estate_bills'[Apartment ID]), "Total Paid", 
+	CALCULATE(SUM('Estate_bills'[Total Price]))) VAR Result = 
+TOPN(1, PaymentsByResident, [Total Paid], DESC) 
+	RETURN MAXX(Result, 'Estate_bills'[Apartment ID])
