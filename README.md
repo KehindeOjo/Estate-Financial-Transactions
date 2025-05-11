@@ -59,4 +59,4 @@ This project analyzes financial transactions within a residential estate to help
 
 **Kehinde Ojo**  
 Financial & Data Analyst  
-LinkedIn Profile https://www.linkedin.com/in/kehinde-ojo-86b61b124
+LinkedIn Profile www.linkedin.com/in/kehindeojo-analyst
