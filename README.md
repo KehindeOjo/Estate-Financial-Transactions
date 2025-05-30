@@ -1,5 +1,10 @@
 # Estate Financial Transactions Dashboard
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D7?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+
 ---
 
 ## Project Overview
@@ -58,5 +63,5 @@ This project analyzes financial transactions within a residential estate to help
 ## Author
 
 **Kehinde Ojo**  
-Financial & Data Analyst  
+Data & Financial Analyst  
 LinkedIn Profile www.linkedin.com/in/kehindeojo-analyst
